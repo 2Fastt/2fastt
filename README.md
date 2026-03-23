@@ -1,6 +1,11 @@
 # 💫 About Me:
 🏫 SysAdmin & Network Administrator<br>🕵️‍♂️ Ethical Hacker apasionado por la ciberseguridad y la defensa de infraestructuras.<br>💻 Experiencia sólida en Linux, Python, Bash, AD e Infraestructura de Redes.<br>🌱 En constante aprendizaje de nuevas tecnologías para optimizar y asegurar sistemas.<br>🤔 Buscando oportunidades para colaborar en proyectos de ciberseguridad y networking.<br>⚡ Fun fact: Me motiva resolver problemas complejos y competir en desafíos CTF 🎯<br>🌍 Idiomas: Español (Nativo) | Inglés (Nivel B1 / Intermedio-Alto).
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Enthusiast,;Ethical+Hacker,;Systems+Engineer,;Tech+Creator,;Passionate+Learner,;Innovative+Thinker,;Always+eager+to+learn+new+things..<3">
+  </a>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ignacio-carrillo-molero-a1916a262/?skipRedirect=true) 
