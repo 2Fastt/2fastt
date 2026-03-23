@@ -24,10 +24,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,powershell,py,html,css,js,docker,github,java,discord,vscode,postman,mysql,cloudflare,debian,kali,latex,obsidian,php,ubuntu&perline=14" />
   </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=2Fastt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=2Fastt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=2Fastt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=2Fastt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
