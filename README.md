@@ -22,7 +22,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,py,html,css,js,docker,github,java,discord,vscode,postman,mysql,cloudflare,debian,kali,latex,obsidian,php,tor,ubuntu&perline=14" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,py,html,css,js,docker,github,java,discord,vscode,postman,mysql,cloudflare,debian,kali,latex,obsidian,php,ubuntu&perline=14" />
   </p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=2Fastt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
