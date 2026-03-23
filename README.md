@@ -7,10 +7,6 @@
   </a>
 </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ignacio-carrillo-molero-a1916a262/?skipRedirect=true) 
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
 <!--h1 without bottom border-->
@@ -24,3 +20,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,powershell,py,html,css,js,docker,github,java,discord,vscode,postman,mysql,cloudflare,debian,kali,latex,obsidian,php,ubuntu&perline=14" />
   </p>
+<br>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ignacio-carrillo-molero-a1916a262/?skipRedirect=true) 
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
