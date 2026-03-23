@@ -24,11 +24,3 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,powershell,py,html,css,js,docker,github,java,discord,vscode,postman,mysql,cloudflare,debian,kali,latex,obsidian,php,ubuntu&perline=14" />
   </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=2Fastt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=2Fastt&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
