@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 SysAdmin & Network Administrator<br>🕵️‍♂️ Ethical Hacker apasionado por la ciberseguridad y la defensa de infraestructuras.<br>💻 Experiencia sólida en Linux, Python, Bash, AD e Infraestructura de Redes.<br>🌱 En constante aprendizaje de nuevas tecnologías para optimizar y asegurar sistemas.<br>🤔 Buscando oportunidades para colaborar en proyectos de ciberseguridad y networking.<br>⚡ Fun fact: Me motiva resolver problemas complejos y competir en desafíos CTF 🎯<br>🌍 Idiomas: Español (Nativo) | Inglés (Nivel B1 / Intermedio-Alto).
+🏫 SysAdmin & Network Administrator<br>🕵️‍♂️ Ethical Hacker apasionado por la ciberseguridad y la defensa de infraestructuras.<br>💻 Experiencia sólida en Linux, Python, Bash, AD e Infraestructura de Redes.<br>🌱 En constante aprendizaje de nuevas tecnologías para optimizar y asegurar sistemas.<br>🤔 Buscando oportunidades para colaborar en proyectos de ciberseguridad y networking.<br>⚡ Fun fact: Me motiva resolver problemas complejos y competir en desafíos CTF 🎯<br>🌍 Idiomas: Español (Nativo) | Inglés (Nivel B2 / Intermedio-Alto).
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
